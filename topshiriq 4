@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>jadval yaratish</title>
+        <body>
+            <h1>Presidents</h1>
+            <table border="1" width="40%">
+                <tr bgcolor="olive" height="30" align="center">
+                    <td>First Name</td>
+                    <td>Last Name</td>
+                    <td>Years in Office</td>
+                </tr>
+                <tr align="center" height="30">
+                        <td>George</td>
+                        <td>Washington</td>
+                        <td>1789-1797</td>
+                    </tr>
+                    <tr align="center" height="30">
+                            <td>John</td>
+                            <td>Adams</td>
+                            <td>1797-1801</td>
+                        </tr>   
+                        <tr align="center" height="30">
+                                <td>Thomas</td>
+                                <td>Jefferson</td>
+                                <td>1801-1809</td>
+                            </tr> 
+            </table>       
+        </body>
+    </head>
+</html>
