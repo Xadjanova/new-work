@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>ro'yxat</title>
+        <body>
+            <ol type="1">
+                <li>Axror</li>
+                <li>Abduxoshim</li>
+                <li>Asliddin</li>
+                <li>Farrux</li>
+                <li>Ikrom</li>
+                <li>Sherozjon</li>
+                <li>Husniddin</li>
+            </ol>
+            <dl>
+                <dt>Qish fasli</dt>
+                <dd>Dekabr</dd>
+                <dd>Yanvar</dd>
+                <dd>Fevral</dd> 
+                <dt>Bahor fasli</dt>
+                <dd>Mart</dd>
+                <dd>Aprel</dd>
+                <dd>May</dd>
+            </dl>
+        </body>
+    </head>
+</html>
